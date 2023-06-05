@@ -10,7 +10,7 @@
   
 ![r3c4-d3v's Stats](https://github-readme-stats.vercel.app/api?username=r3c4-d3v&include_all_commits&card_width=495&theme=transparent&show_icons=true&hide_border=true&count_private=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3c4-d3v&theme=transparent&show_icons=true&langs_count=4&card_width=495&hide_border=true&layout=demo)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r3c4-d3v&theme=transparent&show_icons=true&langs_count=4&card_width=495&hide_border=true)](https://github.com/r3c4-d3v/github-readme-stats)
   
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=R3C4&theme=transparent&card_width=495&hide_border=true&number_format=long&langs_count=5)](https://github.com/r3c4-d3v/github-readme-stats)
   
