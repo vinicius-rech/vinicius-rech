@@ -4,6 +4,7 @@
   
 </div>
 
+
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinicius-rech&theme=transparent&hide_border=true&hide_longest_streak=false&card_width=495&hide_current_streak=false)](https://git.io/streak-stats) 
