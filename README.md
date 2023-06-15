@@ -9,8 +9,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinicius-rech&theme=transparent&hide_border=true&hide_longest_streak=false&card_width=495&hide_current_streak=false)](https://git.io/streak-stats) 
   
-![r3c4-d3v's Stats](https://github-readme-stats.vercel.app/api?username=vinicius-rech&include_all_commits&card_width=495&theme=transparent&show_icons=true&hide_border=true&count_private=true)
-  
+ 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-rech&theme=transparent&show_icons=true&langs_count=4&card_width=495&hide_border=true)](https://github.com/r3c4-d3v/github-readme-stats)
   
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=R3C4&theme=transparent&card_width=495&hide_border=true&number_format=long&langs_count=5)](https://github.com/r3c4-d3v/github-readme-stats)
