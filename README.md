@@ -5,13 +5,6 @@
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinicius-rech&theme=transparent&hide_border=true&hide_longest_streak=false&card_width=495&hide_current_streak=false)](https://git.io/streak-stats) 
-  
-  
-</div>
-
-<div align="center">
   
  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-rech&theme=transparent&show_icons=true&langs_count=4&card_width=495&hide_border=true)](https://github.com/r3c4-d3v/github-readme-stats)
