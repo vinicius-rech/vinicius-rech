@@ -7,7 +7,7 @@
 <div align="center">
   
  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-rech&theme=transparent&show_icons=true&langs_count=4&card_width=495&hide_border=true)](https://github.com/r3c4-d3v/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-rech&theme=transparent&show_icons=true&langs_count=6&card_width=495&hide_border=true)](https://github.com/r3c4-d3v/github-readme-stats)
   
 </div>
 
